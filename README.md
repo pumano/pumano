@@ -7,6 +7,6 @@ I'm Dmitry Zakharov web developer from Moscow, Russia.
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ts,js,flutter,dart,rust,docker,kubernetes,github,git,vite,webpack,npm,nuxtjs,nodejs,mongodb,redis,java,spring,redux,jest,vitest,cypress,html,css,tailwind,figma,postman&perline=11)](#)
+[![My Skills](https://skillicons.dev/icons?i=angular,vue,react,ts,js,flutter,dart,sqlite,rust,docker,kubernetes,sentry,prometheus,grafana,github,git,vite,webpack,npm,yarn,pnpm,nuxtjs,nodejs,nestjs,mongodb,redis,java,spring,redux,pinia,jest,vitest,cypress,selenium,html,css,tailwind,figma,postman&perline=11)](#)
 
 ---
